@@ -11,3 +11,4 @@ export function buscarUsuario() {
     })
     return auth
 }
+

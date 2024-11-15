@@ -1,6 +1,7 @@
 
 // script.js
 
+
 let datosUsuario = {}
 
 const btnDatosUsuario = document.getElementById('btn-datos-usuario')
@@ -41,4 +42,5 @@ btnDatosUsuario.addEventListener('click', () => {
 function printDatosUsuario() {
     console.log(datosUsuario)
 }
+
 
